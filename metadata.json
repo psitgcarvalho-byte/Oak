@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Gestor T - Neuropsychological Evaluation Management",
+  "description": "A comprehensive web application for neuropsychologists to manage patients, schedules, evaluations, and reports with AI assistance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
